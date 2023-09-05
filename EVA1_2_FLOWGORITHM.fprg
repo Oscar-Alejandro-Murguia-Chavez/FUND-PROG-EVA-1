@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="alexl"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 07:46:19 p. m."/>
+        <attribute name="created" value="YWxleGw7TUFJTjsyMDIzLTA5LTA0OzA3OjQzOjM3IHAuIG0uOzIzMDM="/>
+        <attribute name="edited" value="YWxleGw7TUFJTjsyMDIzLTA5LTA0OzA3OjQ2OjE5IHAuIG0uOzQ7MjQxNw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mensaje" type="String" array="False" size=""/>
+            <assign variable="mensaje" expression="&quot;hola mundo&quot;"/>
+            <output expression="mensaje" newline="True"/>
+            <output expression="&quot;otra cadena de texto&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
